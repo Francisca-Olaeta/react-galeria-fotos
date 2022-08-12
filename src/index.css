@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.galeria p{
+  color: #ccc;
+}
+
+.galeria p:hover{
+  color: #282c34;
+}
+
+h1:hover{
+  font-size: 5rem;
+  color: #ae2998;
+}

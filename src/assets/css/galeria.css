@@ -1,0 +1,31 @@
+.galeria{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 12rem;
+    gap: 6rem;
+}
+
+.cardTitle{
+    color: #282c34;
+    font-weight: 700;
+  }
+  
+  .cardTitle:hover{
+    color:#ae2998
+  }
+  
+.img{
+    background-color: #ae2998;
+}
+
+.img:hover{
+    opacity: 0.5;
+    filter: saturate(0%);
+    background-color: #ae2998;
+    
+}
+
+.notNew{
+    display: none;
+}

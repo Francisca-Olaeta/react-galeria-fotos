@@ -1,0 +1,14 @@
+.footer{
+    height: 8rem;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ae2998;
+    text-decoration: none;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
