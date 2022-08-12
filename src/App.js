@@ -18,8 +18,8 @@ function App() {
       <section className='galeria'>
         <CustomCard title="Gatito 1" description="Esta es la descripción del gatito 1" img="http://placekitten.com/200/300?image=0" ifNew='true'/>
         
-        <CustomCard title="Gatito 2" description="Esta es la descripción del gatito 2" img="http://placekitten.com/200/300?image=1" ifNew={true}/>
-        <CustomCard title="Gatito 3" description="Esta es la descripción del gatito 3" img="http://placekitten.com/200/300?image=2" ifNew={false}/>
+        <CustomCard title="Gatito 2" description="Esta es la descripción del gatito 2" img="http://placekitten.com/200/300?image=1" ifNew='true'/>
+        <CustomCard title="Gatito 3" description="Esta es la descripción del gatito 3" img="http://placekitten.com/200/300?image=2" ifNew='false'/>
         <CustomCard title="Gatito 4" description="Esta es la descripción del gatito 4" img="http://placekitten.com/200/300?image=4" ifNew='true'/>
         <CustomCard title="Gatito 5" description="Esta es la descripción del gatito 5" img="http://placekitten.com/200/300?image=10" ifNew='true'/>
         <CustomCard title="Gatito 6" description="Esta es la descripción del gatito 6" img="http://placekitten.com/200/300?image=5" ifNew='false'/>
